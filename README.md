@@ -1,6 +1,6 @@
 # Startup Remove Tool
 This is a tool that removes all startups in the registry and folders.
-<br>It does not remove task scheduler startup. I have no knowledge :)
+<br>Task scheduler and UWP startup will not be removed. I have no knowledge :)
 
 # How to use
 It's very simple, just "run as administrator".
